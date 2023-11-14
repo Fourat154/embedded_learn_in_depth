@@ -17,7 +17,7 @@ Provide a brief introduction to your project. Explain its purpose, goals, and an
 
 ## Getting Started 🛠️
 
-Provide information on how to get the project up and running on a local machine. Include steps for installation and any prerequisites.
+testing small application to send data via uart, starting the application form 0 implimenting the linker script, the startup code .
 
 ### Prerequisites 📝
 
